@@ -1,22 +1,4 @@
-SanfoundryMenu
 
-
-C Program to Find whether a Number is Prime or Not using Recursion
-« PrevNext »
-This is a C program to find whether a number is prime or not using recursion.
-
-Problem Description
-The following C program, using recursion, finds whether the entered number is a prime number or not.
-
-Problem Solution
-A prime number is an integer that has no integral factor but itself and 1.
-
-advertisement
-
-Program/Source Code
-Here is the source code of the C program to find an element in a linked list. The C Program is successfully compiled and run on a Linux system. The program output is also shown below.
-
-/*
  * C Program to find whether a Number is Prime or Not using Recursion
  */
 #include <stdio.h>
